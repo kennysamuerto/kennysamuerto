@@ -115,12 +115,12 @@ Frameworks:
 
 ```bash
 $ netstat -an | grep kenny
-tcp    0.0.0.0:22     LISTENING    # SSH siempre abierto
+tcp    0.0.0.0:22     LISTENING    # SSH siempre abierto (Tu debes tenerlo cerrado)
 tcp    0.0.0.0:443    LISTENING    # Portfolio HTTPS
 tcp    0.0.0.0:8080   LISTENING    # CTF Platform
 ```
 
-- 📧 **Email:** `kenny@domain.tld`
+- 📧 **Email:** `tormo at me dot com`
 - 🐦 **Twitter:** `@kennysamuerto`
 - 💼 **LinkedIn:** `/in/kennysamuerto`
 - 🎮 **Discord:** `kennysamuerto#1337`
