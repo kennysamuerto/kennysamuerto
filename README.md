@@ -15,7 +15,7 @@ kenny:x:1337:1337:System Overlord:/home/kenny:/bin/zsh
 - 🎯 **Root Access:** Especialista en sistemas Unix/Linux y macOS
 - 🔓 **Penetration Testing:** Red Team & Blue Team operations
 - 💻 **Stack:** Python, TypeScript, Bash, Go, Rust
-- 🌐 **Cloud:** AWS, GCP, Docker, Kubernetes
+- 🌐 **Cloud:** Proxmox ❤️ ,AWS, GCP, Docker, Kubernetes
 - 🔧 **Tools:** Raycast Extensions, CLI Tools, Automation Scripts
 
 ---
@@ -50,11 +50,12 @@ Operating_Systems:
     focus: "AD & Security"
 
 Infrastructure:
+  - Proxmox ❤️
   - Docker & Kubernetes
   - AWS/GCP Cloud Architecture  
   - Terraform & Ansible
   - CI/CD Pipelines
-  - Monitoring (Prometheus, Grafana)
+  - Monitoring (Prometheus, Grafana, Beszel, Uptime Kuma)
 ```
 </details>
 
@@ -121,9 +122,9 @@ tcp    0.0.0.0:8080   LISTENING    # CTF Platform
 ```
 
 - 📧 **Email:** `tormo at me dot com`
-- 🐦 **Twitter:** `@kennysamuerto`
-- 💼 **LinkedIn:** `/in/kennysamuerto`
-- 🎮 **Discord:** `kennysamuerto#1337`
+- 🐦 **Twitter:** `-`
+- 💼 **LinkedIn:** `-`
+- 🎮 **Discord:** `-`
 
 ---
 
